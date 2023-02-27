@@ -3,10 +3,11 @@
 #include <time.h>
 
 /**
- * main - prints a random variable n
- * description - determines if it is positive,
- * negative or zero
- * return (0)
+ * main - Entry point
+ * Description : prints a random variable n and determines if it is
+ * positive, negative or zero
+ * void : testing if it works
+ * Return : Always 0 (success)
  */
 
 int main(void)
